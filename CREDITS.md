@@ -78,3 +78,9 @@ Refinamiento visual del 2026-10-06:
 - Fieltro, iluminación de mesa, fichas apiladas, papel y ruleta: dibujo procedural
 	propio en Godot, implementado con GitHub Copilot siguiendo las tres referencias.
 	El ruido visual usa una semilla local y no consume el RNG de la partida.
+
+## COR-012 — Forjadora automática y ruletas por clase
+
+Pedido autorizado del autor (7/10/2026). Forjadora pasa a pasiva garantizada: N1/N2/N3 = 1/2/3 fichas +1 por cada otra clase propia distinta presente. Una activación por dueño al resolver River después del bote, sin RNG, maldiciones, retos, Gary ni Fortuna; excluida de estadísticas aleatorias. Retiro y eliminación especial de Buhler conservan sus reglas. Se reemplaza la fórmula histórica 2/2/5 +1/2/3 por clase.
+
+Cinco PNG originales generados con OpenAI image_gen y aportados por el autor, procedencia en `assets/designs/ruletas/README.md`, sin licencia CC0 asignada ni edición del bitmap. Fantasma, Dorada, Pirata y Carmesí usan su ilustración; anillo dinámico de probabilidad real y puntero independientes. Fortuna usa su arte como emblema estático, sin tirada. Pausa, omisión, movimiento reducido y móvil conservados.
