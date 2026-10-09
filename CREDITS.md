@@ -15,7 +15,7 @@ los cuatro nuevos diseños para dibujar el valor y palo reales por HTML/CSS.
 Estos archivos son arte generado para el proyecto, no recursos Kenney ni CC0.
 
 La distribución de Spec 002 selecciona 52 caras y un dorso de **Kenney Board Game Pack**,
-la madera **Wood049**, el tejido **Fabric030**, las fuentes **Inter** y **Libre Baskerville**. Se conservan sus
+la madera **Wood049**, el tejido **Fabric030**, las fuentes **Inter**, **Nunito Sans** y **Barlow Condensed**. Se conservan sus
 licencias y procedencias detalladas debajo. No se incluyen Joker, fichas PNG ni el
 catálogo Playing Cards Pack del primer MVP. Los archivos originales no se modificaron.
 
@@ -84,3 +84,27 @@ Refinamiento visual del 2026-10-06:
 Pedido autorizado del autor (7/10/2026). Forjadora pasa a pasiva garantizada: N1/N2/N3 = 1/2/3 fichas +1 por cada otra clase propia distinta presente. Una activación por dueño al resolver River después del bote, sin RNG, maldiciones, retos, Gary ni Fortuna; excluida de estadísticas aleatorias. Retiro y eliminación especial de Buhler conservan sus reglas. Se reemplaza la fórmula histórica 2/2/5 +1/2/3 por clase.
 
 Cinco PNG originales generados con OpenAI image_gen y aportados por el autor, procedencia en `assets/designs/ruletas/README.md`, sin licencia CC0 asignada ni edición del bitmap. Fantasma, Dorada, Pirata y Carmesí usan su ilustración; anillo dinámico de probabilidad real y puntero independientes. Fortuna usa su arte como emblema estático, sin tirada. Pausa, omisión, movimiento reducido y móvil conservados.
+
+
+## COR-014–020 — Interfaz y usabilidad (9/10/2026)
+
+Ruletas v3 aportadas por el autor: originales intactos de OpenAI image_gen en
+`assets/designs/ruletas/redisenos/`; prompts en su README. La presentación usa
+máscaras CSS del porcentaje real, marco original y emblema, sin aro rojo/verde.
+Fortuna conserva su emblema estático; Forjadora automática no usa ruleta.
+
+Variantes de menú con rangos 2, 4, 6, 8, 9 y 10: edición autorizada con image_gen
+integrado de OpenAI; modelo no informado. Referencias originales conservadas y
+prompts en `assets/designs/casino/MENU-RANGOS-V2.md`. No son recursos CC0.
+Los controles funcionales se dibujan con HTML/CSS.
+
+- **Nunito Sans**, The Nunito Sans Project Authors, SIL OFL 1.1.
+  Origen: https://github.com/google/fonts/tree/main/ofl/nunitosans.
+  Licencia: `assets/licenses/NunitoSans-OFL.txt`.
+- **Barlow Condensed**, The Barlow Project Authors, SIL OFL 1.1.
+  Origen: https://github.com/google/fonts/tree/main/ofl/barlowcondensed.
+  Licencia: `assets/licenses/BarlowCondensed-OFL.txt`.
+
+Fuentes originales sin modificar. Libre Baskerville queda como recurso histórico,
+fuera del build web actual. Inter continúa con su licencia existente. Libreta,
+controles de lápiz, cursor SVG y paneles de glosario: código propio del proyecto.
