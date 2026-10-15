@@ -127,3 +127,9 @@ integrado y aportados por el autor: cuatro caminatas y guardián Carmesí. Copia
 runtime intactas en assets/designs/story/Revision-v2; procedencia/prompts en
 ASSETS_ORGANIZADOS/Historia-005/Revision-v2/manifest-generacion.json. Recortes medidos,
 registro y animaciones DOM propios del proyecto; no se alteraron los PNG fuente.
+
+COR-022: ocho habitaciones completas verticales de Historia-005/Salas-verticales-v2,
+aportadas por el autor y generadas editando las salas originales con image_gen
+integrado. Prompts y referencias: manifest-generacion.json de esa carpeta. Copias
+runtime intactas en assets/designs/story/Salas-verticales-v2. Ilustraciones completas
+con proporción preservada, sin nuevas modificaciones de píxeles.
