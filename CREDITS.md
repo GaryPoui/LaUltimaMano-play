@@ -108,3 +108,16 @@ Los controles funcionales se dibujan con HTML/CSS.
 Fuentes originales sin modificar. Libre Baskerville queda como recurso histórico,
 fuera del build web actual. Inter continúa con su licencia existente. Libreta,
 controles de lápiz, cursor SVG y paneles de glosario: código propio del proyecto.
+
+
+## Spec005 — Historia y endings (14/10/2026)
+
+35 originales de entrega, generados con image_gen integrado de OpenAI, dirigidos
+por el autor; modelo no informado. Prompts/referencias/procedencia en
+`ASSETS_ORGANIZADOS/Historia-005/manifest-generacion.json` y README, dimensiones/hashes
+en inventario-verificado.json. Se conservan todos; la distribución usa34, excluyendo
+la callev1 con un papel fijo y usando la callev2 limpia. Copias canónicas intactas
+`assets/designs/story/`; recortes/anclas medidos y animación por CSS/DOM, sin editar
+los PNG. Se reutilizan caminatas y música/SFX originales. Familia y élites son diseños
+del proyecto; no personas/nombres nuevos añadidos al canon ni recursos CC0 ajenos.
+Botella exclusivamente narrativa en el giro solicitado, sin mecánica de consumo.
