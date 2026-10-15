@@ -121,3 +121,9 @@ la callev1 con un papel fijo y usando la callev2 limpia. Copias canónicas intac
 los PNG. Se reutilizan caminatas y música/SFX originales. Familia y élites son diseños
 del proyecto; no personas/nombres nuevos añadidos al canon ni recursos CC0 ajenos.
 Botella exclusivamente narrativa en el giro solicitado, sin mecánica de consumo.
+
+COR-021: cinco PNG adicionales de Historia-005/Revision-v2, generados con image_gen
+integrado y aportados por el autor: cuatro caminatas y guardián Carmesí. Copias
+runtime intactas en assets/designs/story/Revision-v2; procedencia/prompts en
+ASSETS_ORGANIZADOS/Historia-005/Revision-v2/manifest-generacion.json. Recortes medidos,
+registro y animaciones DOM propios del proyecto; no se alteraron los PNG fuente.
