@@ -1,5 +1,5 @@
-# La última mano — juego publicado
+﻿# La Ãºltima mano â€” juego publicado
 
-Versión compilada para GitHub Pages. Este repositorio contiene los archivos públicos del juego; el proyecto de desarrollo se mantiene separado.
+VersiÃ³n compilada para GitHub Pages. Este repositorio contiene los archivos pÃºblicos del juego; el proyecto de desarrollo se mantiene separado.
 
-Licencias y créditos: THIRD-PARTY-NOTICES.txt y CREDITS.md. El arte original conserva su procedencia; no se concede una licencia CC0 general.
+Licencias y crÃ©ditos: THIRD-PARTY-NOTICES.txt y CREDITS.md. El arte original conserva su procedencia; no se concede una licencia CC0 general.

@@ -1,4 +1,4 @@
-name: Publish game
+﻿name: Publish game
 on:
   push:
     branches: [main]

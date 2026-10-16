@@ -42,8 +42,6 @@ Los recursos restantes permanecen disponibles para el respaldo Godot.
 
 COR-009: ocho hojas de caminata de Pipe, Gary, Buhler y Ulda (cardinales y diagonales), generadas con `image_gen` integrado de OpenAI el 2026-10-07, dirigidas y aportadas por el autor a partir de los personajes aprobados. Modelo no informado. Prompts, referencias y método en `assets/designs/casino/walk-v1/README.md` y `walk-diagonal-v1/README.md`; hashes en el inventario. PNG intactos, ventanas CSS con normalización y ancla de pies, sin nuevas imágenes compuestas ni licencia CC0 ajena.
 
-El 2026-10-15 se integraron las hojas v2 de caminata cardinal y diagonal de los cuatro personajes, los fondos verticales v2 de las ocho salas y las seis mesas temáticas por sala. Fueron generados con `image_gen` integrado y aportados por el autor. El runtime conserva los PNG originales, registra las ventanas transparentes en JSON y prioriza v2 con fallback a las caminatas v1; no se atribuye licencia CC0 de terceros. La misma caminata v2 anima los pasos del prólogo y la entrada.
-
 Correcciones del 2026-10-07: ilustración de menú aportada por el autor en COR-006, conservada sin modificar en `assets/designs/casino/menu-principal.png`. COR-008 incorpora el arte vertical aportado, sin modificar, como `assets/designs/casino/menu-mobile.png`: ventanas CSS muestran casino/título/cartas y un sector del piso sin rótulos. Herramienta/modelo de generación no informados en los adjuntos; no se asigna licencia CC0 de terceros. Los botones son HTML/CSS interactivos; las ventanas CSS excluyen los controles dibujados. El selector reutiliza las hojas aprobadas de personajes. Las seis mesas de la sala reutilizan ventanas CSS del fondo aprobado; suelo, paredes y HUD son CSS propio. No se generaron nuevos bitmaps ni se copiaron objetos de alcohol de la referencia del selector.
 
 Pipe, Gary, Buhler, Ulda, crupier y sala: arte generado con la herramienta integrada `image_gen` de OpenAI, dirigido y aprobado por el autor, 2026-10-06. Modelo no informado por la herramienta. Assets en `assets/designs/casino/`; prompts y referencias documentados allí y en el inventario. Las fotografías privadas no se distribuyen. Las hojas se reutilizan con recorte CSS, sin copiar arte de The Binding of Isaac.
@@ -135,3 +133,11 @@ aportadas por el autor y generadas editando las salas originales con image_gen
 integrado. Prompts y referencias: manifest-generacion.json de esa carpeta. Copias
 runtime intactas en assets/designs/story/Salas-verticales-v2. Ilustraciones completas
 con proporción preservada, sin nuevas modificaciones de píxeles.
+
+COR-023:23PNG adicionales aportados por el autor, sin alteración de píxeles:
+13recursos finales de ASSETS_ORGANIZADOS/Revision-grafica-2026-10-16 (ocho caminatas,
+dos secuencias y tres componentes) y10de Historia-005/Revision-v2 (ocho mesas de
+duelo y dos grimorios). Procedencia/prompts en manifiestos y README de esas carpetas.
+Copias runtime en assets/designs/story/Revision-2026-10-16 y Revision-v2. Se conservan
+los diseños originales de personajes; propuestas adultas y referencias completas de
+interfaz quedan fuera del runtime. Tipografía, interacción y composición son HTML/CSS.
